@@ -61,7 +61,13 @@ Bivariate analysis to explore relationships, e.g., between sales amount and orde
 
 
 **Inventory Optimization**:Predictive insights to balance stock levels.
+
+
+
 **Enhanced Fulfillment & Shipping**: Accurate fulfillment and shipping predictions improve customer satisfaction.
+
 **Marketing & Promotions**: Data-driven insights support targeted promotions.
+
 **Operational Efficiency**: Clustering optimizes order and shipping processes.
+
 **Strategic Planning**: Sales forecasts aid in long-term resource and strategy planning.

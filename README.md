@@ -71,3 +71,8 @@ Bivariate analysis to explore relationships, e.g., between sales amount and orde
 **Operational Efficiency**: Clustering optimizes order and shipping processes.
 
 **Strategic Planning**: Sales forecasts aid in long-term resource and strategy planning.
+
+
+
+**References:**
+https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
